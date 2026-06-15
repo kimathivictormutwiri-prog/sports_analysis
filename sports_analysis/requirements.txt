@@ -1,0 +1,11 @@
+ultralytics
+opencv-python
+anthropic
+reportlab
+numpy
+matplotlib
+Pillow
+fastapi
+uvicorn
+python-multipart
+pyngrok

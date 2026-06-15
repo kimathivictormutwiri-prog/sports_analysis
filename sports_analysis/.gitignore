@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+outputs/
+data/videos/
+node_modules/
+.DS_Store
